@@ -1,2 +1,2 @@
 # GrossMall
-online multiplayer shooter with shrinking planet
+online multiplayer shooter with shrinking planet, maybe. Maybe something different.
